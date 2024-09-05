@@ -2,8 +2,8 @@ I’m @voilaVitamin
 
 I like to type. 
 Coding makes me type. 
-I like Coding. 
-Makes me a developer
+I like building. 
+Developing makes me build.
 
 <!---
 voilaVitamin/voilaVitamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
