@@ -1,9 +1,9 @@
-I’m @voilaVitamin
+I’m Adnan
 
-I like to type. 
-Coding makes me type. 
-I like building. 
-Developing makes me build.
+I like to type.  
+Programming makes me type.  
+I like building.  
+Programming makes me build.  
 
 <!---
 voilaVitamin/voilaVitamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
