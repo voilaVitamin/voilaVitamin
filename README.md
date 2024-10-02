@@ -2,7 +2,7 @@ I’m Adnan
 
 I like to type.  
 Programming makes me type.  
-I like building.  
+I like to build.  
 Programming makes me build.  
 
 <!---
